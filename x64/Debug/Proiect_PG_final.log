@@ -1,0 +1,9 @@
+﻿  OpenGLFormat.cpp
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(157,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(158,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(162,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(163,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(164,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(165,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18142\Desktop\PG\Proiect_PG_final\Proiect_PG_final\OpenGLFormat.cpp(167,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Proiect_PG_final.vcxproj -> C:\Users\18142\Desktop\PG\Proiect_PG_final\x64\Debug\Proiect_PG_final.exe
